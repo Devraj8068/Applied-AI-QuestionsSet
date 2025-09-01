@@ -10,6 +10,3 @@ It reads questions from `quiz.json`, asks each question one-by-one, validates us
 - Final score (X / total)
 
 ---
-
-## Project structure
-
