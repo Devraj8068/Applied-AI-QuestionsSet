@@ -10,4 +10,5 @@ It reads questions from `quiz.json`, asks each question one-by-one, validates us
 - Final score (X / total)
 
 ---
-clone → cd → run python quiz.py.
+To run:
+Clone → cd → run python quiz.py.
